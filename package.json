@@ -1,5 +1,5 @@
 {
-  "name": "react-native-tab-view-old",
+  "name": "react-native-tab-view",
   "version": "2.16.0",
   "description": "Tab view component for React Native",
   "main": "lib/commonjs/index.js",
@@ -62,7 +62,7 @@
     "react": "~16.11.0",
     "react-native": "~0.62.2",
     "react-native-gesture-handler": "~1.6.0",
-    "react-native-reanimated-old": "github:myAccount11/react-native-reanimated-old",
+    "react-native-reanimated": "~1.9.0",
     "release-it": "^13.6.6",
     "typescript": "^3.9.7"
   },
@@ -70,7 +70,7 @@
     "react": "*",
     "react-native": "*",
     "react-native-gesture-handler": "*",
-    "react-native-reanimated-old": "*"
+    "react-native-reanimated": "*"
   },
   "husky": {
     "hooks": {
